@@ -4,7 +4,6 @@
       "type": "sse",
       "url": "https://fragile-zoology-monoxide.ngrok-free.dev/sse",
       "headers": {
-        "Authorization": "Bearer ${JThXHlWVyyMh9mrZEQ8iipg6fQBjOfEWMOiXc4wPtow}",
         "ngrok-skip-browser-warning": "1"
       }
     }
